@@ -31,4 +31,4 @@ Then open http://localhost:8080 in a desktop browser. Or serve `game/` with any 
 
 ---
 
-<sub>Entered on [make.fun](https://make.fun/?ref=gd575amq&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
+<sub>Entered on [make.fun](https://make.fun/?ref=8cx6jc10&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
